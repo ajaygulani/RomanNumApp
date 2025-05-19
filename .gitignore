@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+
+# Other common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
